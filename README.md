@@ -1,7 +1,7 @@
 ### Hey there! I'm Scott. 👋
 
-- 🌱 I’m currently learning ... Go
-- 💬 Ask me about ... APIs and statistical analysis
+- 🌱 I’m currently learning ... PHP and Laravel
+- 💬 Ask me about ... APIs and statistical analysis and variable naming
 - ⚡ Fun fact: ... I was one of the highest rated World of Warcraft Elemental Shamans in PvE for several expansions
 
 <!--
